@@ -1,1 +1,0 @@
-export { onUserCreate } from "./auth";
